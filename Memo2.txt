@@ -1,0 +1,12 @@
+JPQL(Java Persistence Query Language)
+- JPA에서 제공하는 쿼리방법 중 하나
+- SQL을 추상화한 객체지향쿼리
+- SQL은 데이터베이스 테이블을 대상으로 쿼리를 작성, JPQL은 Entity 객체를 대상으로 쿼리를 작성
+- JPQL은 SQL로 번역되어 실행됨
+- JPQL은 SQL을 추상화하여 특정 데이터베이스 SQL에 의존하지 않음
+
+문법
+- Entity와 속성은 대소문자를 구분함, JPQL 키워드(ex. SELECT, FROM, AS ..)는 대소문자 구분 X
+- 테이블 이름이 아닌 Entity이름을 사용함.
+-  select m from Member m
+=> m같은 별칭 필요 (as는 생략이 가능함)
