@@ -4,7 +4,7 @@ Spring Security
 
 과정
 인증(Authorization)  ----------->  인가(Authentication)
-		 인증 성공 후
+		     인증 성공 후
 
 * 인증(Authorization)
 - 해당 사용자가 본인이 맞는지를 확인하는 절차
