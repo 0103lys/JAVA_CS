@@ -16,7 +16,8 @@
 
 ### 이진 트리
 - 각 노드가 최대 두 개의 자식을 갖는 트리
-<image src="https://blog.kakaocdn.net/dn/blbjFV/btq1K3P9Y8v/H393OwoRI9lX8N3wrz9OO1/img.png" />
+<image src="https://blog.kakaocdn.net/dn/blbjFV/btq1K3P9Y8v/H393OwoRI9lX8N3wrz9OO1/img.png"/>
+
 ## 힙(sort)
 ## 그래프
 
